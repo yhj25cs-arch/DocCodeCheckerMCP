@@ -1,0 +1,10 @@
+{
+  "paths": {
+    "/users": {
+      "get": { "summary": "Get users" }
+    },
+    "/login": {
+      "post": { "summary": "Login" }
+    }
+  }
+}
