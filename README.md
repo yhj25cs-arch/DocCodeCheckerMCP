@@ -4,7 +4,7 @@
 # Tool 2. extract_code_tokens: 파이썬 코드 파일을 읽고 내부 단어(토큰) 목록 추출
 # Tool 3. compare_spec_and_code: swagger 키워드와 코드 토큰을 비교하여 차이점만 반환
 # 구조 
-doccodechecker/
+DocCodeCheckerMCP/
 ├─ server/
 │  ├─ main.py          # MCP 엔트리 (stdio)
 │  └─ handlers.py      # MCP tool handler (dict 반환)
