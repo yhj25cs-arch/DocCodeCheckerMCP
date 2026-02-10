@@ -1,9 +1,0 @@
-{
-  "only_in_spec": [
-    "POST /login",
-    "user_id"
-  ],
-  "only_in_code": [
-    "password"
-  ]
-}
